@@ -1,3 +1,4 @@
+
 // singleton
 // Object.create
 
